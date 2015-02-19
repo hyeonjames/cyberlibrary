@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<소설>
+  <_x005C_소설>
+    <Group>true</Group>
+    <Name>발단</Name>
+    <PageIndex>0</PageIndex>
+    <Description />
+  </_x005C_소설>
+  <_x005C_소설>
+    <Group>true</Group>
+    <Name>전개</Name>
+    <PageIndex>0</PageIndex>
+    <Description />
+  </_x005C_소설>
+  <_x005C_소설>
+    <Group>true</Group>
+    <Name>위기</Name>
+    <PageIndex>0</PageIndex>
+    <Description />
+  </_x005C_소설>
+  <_x005C_소설>
+    <Group>true</Group>
+    <Name>절정</Name>
+    <PageIndex>0</PageIndex>
+    <Description />
+  </_x005C_소설>
+  <_x005C_소설>
+    <Group>true</Group>
+    <Name>결말</Name>
+    <PageIndex>0</PageIndex>
+    <Description />
+  </_x005C_소설>
+  <_x005C_소설_x005C_발단>
+    <Group>false</Group>
+    <Name>페이지1</Name>
+    <PageIndex>1</PageIndex>
+    <Description />
+  </_x005C_소설_x005C_발단>
+</소설>

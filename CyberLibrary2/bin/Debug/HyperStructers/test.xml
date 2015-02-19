@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<test>
+  <_x005C_>
+    <Group>true</Group>
+    <Name>페이지1</Name>
+    <PageIndex>1</PageIndex>
+  </_x005C_>
+  <_x005C_>
+    <Group>true</Group>
+    <Name>페이지2</Name>
+    <PageIndex>2</PageIndex>
+    <Description />
+  </_x005C_>
+</test>

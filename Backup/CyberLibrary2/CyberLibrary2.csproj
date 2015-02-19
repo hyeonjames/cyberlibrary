@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7759D8BE-4F37-42FE-A47A-721A9AFC39E5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CyberLibrary2</RootNamespace>
+    <AssemblyName>CyberLibrary2</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>
+    </StartupObject>
+    <ApplicationIcon>icongreen.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\ClientPacketControler.cs" />
+    <Compile Include="Classes\Network_Client.cs" />
+    <Compile Include="Classes\Network_Server.cs" />
+    <Compile Include="Classes\ServerPacketControler.cs" />
+    <Compile Include="Classes\SettingClass.cs" />
+    <Compile Include="Controls\bLabel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\bLabel.Designer.cs">
+      <DependentUpon>bLabel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\BoardImage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\BoardImage.designer.cs">
+      <DependentUpon>BoardImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Book_Read.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Book_Read.Designer.cs">
+      <DependentUpon>Book_Read.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\BookEditor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\BookEditor.Designer.cs">
+      <DependentUpon>BookEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Class_BookControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\CommentBoard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\CommentBoard.designer.cs">
+      <DependentUpon>CommentBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\MemoView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\MemoView.designer.cs">
+      <DependentUpon>MemoView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\NetworkBoard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\NetworkBoard.Designer.cs">
+      <DependentUpon>NetworkBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AboutBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AboutBook.Designer.cs">
+      <DependentUpon>AboutBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CyberLibraryInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CyberLibraryInformation.Designer.cs">
+      <DependentUpon>CyberLibraryInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BookSettingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BookSettingForm.Designer.cs">
+      <DependentUpon>BookSettingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FindBookForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FindBookForm.Designer.cs">
+      <DependentUpon>FindBookForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\GlobalClass.cs" />
+    <Compile Include="Controls\WriteMode_Page.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\WriteMode_Page.Designer.cs">
+      <DependentUpon>WriteMode_Page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Program.cs" />
+    <Compile Include="Forms\HasteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\HasteForm.Designer.cs">
+      <DependentUpon>HasteForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ImageDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ImageDialog.Designer.cs">
+      <DependentUpon>ImageDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\InputBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\InputBox.Designer.cs">
+      <DependentUpon>InputBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\IPForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\IPForm.Designer.cs">
+      <DependentUpon>IPForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\JoinForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\JoinForm.Designer.cs">
+      <DependentUpon>JoinForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\LibraryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LibraryForm.designer.cs">
+      <DependentUpon>LibraryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\LibrarySettingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LibrarySettingForm.Designer.cs">
+      <DependentUpon>LibrarySettingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MemoDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MemoDialog.designer.cs">
+      <DependentUpon>MemoDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Page_Read.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Page_Read.Designer.cs">
+      <DependentUpon>Page_Read.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\NetworkLibForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\NetworkLibForm.Designer.cs">
+      <DependentUpon>NetworkLibForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\NetworkServerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\NetworkServerForm.Designer.cs">
+      <DependentUpon>NetworkServerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\NetworkUserAddForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\NetworkUserAddForm.Designer.cs">
+      <DependentUpon>NetworkUserAddForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PrintForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PrintForm.Designer.cs">
+      <DependentUpon>PrintForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PrintView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PrintView.Designer.cs">
+      <DependentUpon>PrintView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ScreenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ScreenForm.Designer.cs">
+      <DependentUpon>ScreenForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\WriterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\WriterForm.Designer.cs">
+      <DependentUpon>WriterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Controls\bLabel.resx">
+      <DependentUpon>bLabel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\BoardImage.resx">
+      <DependentUpon>BoardImage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\BookEditor.resx">
+      <DependentUpon>BookEditor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Book_Read.resx">
+      <DependentUpon>Book_Read.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Class_BookControl.resx">
+      <DependentUpon>Class_BookControl.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\CommentBoard.resx">
+      <DependentUpon>CommentBoard.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\MemoView.resx">
+      <DependentUpon>MemoView.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\NetworkBoard.resx">
+      <DependentUpon>NetworkBoard.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AboutBook.resx">
+      <DependentUpon>AboutBook.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CyberLibraryInformation.resx">
+      <DependentUpon>CyberLibraryInformation.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BookSettingForm.resx">
+      <DependentUpon>BookSettingForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FindBookForm.resx">
+      <DependentUpon>FindBookForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\WriteMode_Page.resx">
+      <DependentUpon>WriteMode_Page.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\HasteForm.resx">
+      <DependentUpon>HasteForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ImageDialog.resx">
+      <DependentUpon>ImageDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\InputBox.resx">
+      <DependentUpon>InputBox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\IPForm.resx">
+      <DependentUpon>IPForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\JoinForm.resx">
+      <DependentUpon>JoinForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LibraryForm.resx">
+      <DependentUpon>LibraryForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LibrarySettingForm.resx">
+      <DependentUpon>LibrarySettingForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MemoDialog.resx">
+      <DependentUpon>MemoDialog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Page_Read.resx">
+      <DependentUpon>Page_Read.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\NetworkLibForm.resx">
+      <DependentUpon>NetworkLibForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\NetworkServerForm.resx">
+      <DependentUpon>NetworkServerForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\NetworkUserAddForm.resx">
+      <DependentUpon>NetworkUserAddForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PrintForm.resx">
+      <DependentUpon>PrintForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PrintView.resx">
+      <DependentUpon>PrintView.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ScreenForm.resx">
+      <DependentUpon>ScreenForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\WriterForm.resx">
+      <DependentUpon>WriterForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource Files\MyResources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>MyResources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Resource Files\MyResources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MyResources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource Files\mco.ico" />
+    <None Include="Resources\16-arrow-right.png" />
+    <None Include="Resources\16-arrow-left.png" />
+    <None Include="Resources\16-arrow-down.png" />
+    <None Include="Resources\16-arrow-up.png" />
+    <None Include="Resources\16-comment.png" />
+    <None Include="Resources\12-em-check.png" />
+    <None Include="Resources\Heart1.bmp" />
+    <None Include="Resources\cLibrary.jpg" />
+    <None Include="Resources\LoadingImage.bmp" />
+    <None Include="Resources\ICON_ERASER.tif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24-security-lock1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24-security-lock-open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24-security-lock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icongreen.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

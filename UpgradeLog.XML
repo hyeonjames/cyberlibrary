@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CyberLibrary">
+</Property><Property Name="솔루션 파일" Value="D:\Projects\source\CyberLibrary.sln">
+</Property><Property Name="사용자 옵션 파일" Value="D:\Projects\source\CyberLibrary.suo">
+</Property><Property Name="Date" Value="2014년 12월 11일 목요일">
+</Property><Property Name="Time" Value="오전 2:01">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CyberLibrary.sln" Description="파일을 D:\Projects\source\Backup\CyberLibrary.sln(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="" Source="CyberLibrary.suo" Description="파일을 D:\Projects\source\Backup\CyberLibrary.suo(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\CyberLibrary2.csproj" Description="프로젝트 파일을 D:\Projects\source\Backup\CyberLibrary2\CyberLibrary2.csproj(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\CyberLibrary2.csproj.user" Description="프로젝트 사용자 파일을 D:\Projects\source\Backup\CyberLibrary2\CyberLibrary2.csproj.user(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Classes\ClientPacketControler.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Classes\ClientPacketControler.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Classes\Network_Client.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Classes\Network_Client.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Classes\Network_Server.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Classes\Network_Server.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Classes\ServerPacketControler.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Classes\ServerPacketControler.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Classes\SettingClass.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Classes\SettingClass.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\bLabel.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\bLabel.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\bLabel.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\bLabel.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\BoardImage.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\BoardImage.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\BoardImage.designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\BoardImage.designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\Book_Read.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\Book_Read.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\Book_Read.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\Book_Read.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\BookEditor.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\BookEditor.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\BookEditor.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\BookEditor.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\Class_BookControl.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\Class_BookControl.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\CommentBoard.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\CommentBoard.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\CommentBoard.designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\CommentBoard.designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\MemoView.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\MemoView.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\MemoView.designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\MemoView.designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\NetworkBoard.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\NetworkBoard.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\NetworkBoard.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\NetworkBoard.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\AboutBook.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\AboutBook.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\AboutBook.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\AboutBook.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\CyberLibraryInformation.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\CyberLibraryInformation.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\CyberLibraryInformation.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\CyberLibraryInformation.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\BookSettingForm.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\BookSettingForm.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\BookSettingForm.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\BookSettingForm.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\FindBookForm.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\FindBookForm.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\FindBookForm.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\FindBookForm.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Classes\GlobalClass.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Classes\GlobalClass.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\WriteMode_Page.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\WriteMode_Page.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\WriteMode_Page.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\WriteMode_Page.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Classes\Program.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Classes\Program.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\HasteForm.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\HasteForm.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\HasteForm.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\HasteForm.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\ImageDialog.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\ImageDialog.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\ImageDialog.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\ImageDialog.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\InputBox.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\InputBox.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\InputBox.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\InputBox.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\IPForm.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\IPForm.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\IPForm.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\IPForm.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\JoinForm.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\JoinForm.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\JoinForm.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\JoinForm.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\LibraryForm.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\LibraryForm.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\LibraryForm.designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\LibraryForm.designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\LibrarySettingForm.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\LibrarySettingForm.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\LibrarySettingForm.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\LibrarySettingForm.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\LoginForm.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\LoginForm.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\LoginForm.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\LoginForm.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\MemoDialog.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\MemoDialog.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\MemoDialog.designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\MemoDialog.designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\Page_Read.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\Page_Read.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\Page_Read.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\Page_Read.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\NetworkLibForm.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\NetworkLibForm.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\NetworkLibForm.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\NetworkLibForm.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\NetworkServerForm.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\NetworkServerForm.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\NetworkServerForm.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\NetworkServerForm.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\NetworkUserAddForm.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\NetworkUserAddForm.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\NetworkUserAddForm.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\NetworkUserAddForm.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\PrintForm.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\PrintForm.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\PrintForm.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\PrintForm.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\PrintView.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\PrintView.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\PrintView.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\PrintView.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\ScreenForm.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\ScreenForm.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\ScreenForm.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\ScreenForm.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\WriterForm.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\WriterForm.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\WriterForm.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\WriterForm.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Properties\AssemblyInfo.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Properties\AssemblyInfo.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Properties\Resources.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Properties\Resources.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Properties\Settings.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Properties\Settings.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Resource Files\MyResources.Designer.cs" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Resource Files\MyResources.Designer.cs(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Properties\Settings.settings" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Properties\Settings.settings(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Resource Files\mco.ico" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Resource Files\mco.ico(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Resources\16-arrow-right.png" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Resources\16-arrow-right.png(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Resources\16-arrow-left.png" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Resources\16-arrow-left.png(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Resources\16-arrow-down.png" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Resources\16-arrow-down.png(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Resources\16-arrow-up.png" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Resources\16-arrow-up.png(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Resources\16-comment.png" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Resources\16-comment.png(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Resources\12-em-check.png" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Resources\12-em-check.png(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Resources\Heart1.bmp" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Resources\Heart1.bmp(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Resources\cLibrary.jpg" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Resources\cLibrary.jpg(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Resources\LoadingImage.bmp" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Resources\LoadingImage.bmp(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Resources\ICON_ERASER.tif" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Resources\ICON_ERASER.tif(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Resources\24-security-lock1.png" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Resources\24-security-lock1.png(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Resources\24-security-lock-open.png" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Resources\24-security-lock-open.png(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Resources\24-security-lock.png" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Resources\24-security-lock.png(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\icongreen.ico" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\icongreen.ico(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\bLabel.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\bLabel.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\BoardImage.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\BoardImage.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\BookEditor.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\BookEditor.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\Book_Read.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\Book_Read.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\Class_BookControl.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\Class_BookControl.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\CommentBoard.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\CommentBoard.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\MemoView.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\MemoView.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\NetworkBoard.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\NetworkBoard.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\AboutBook.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\AboutBook.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\CyberLibraryInformation.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\CyberLibraryInformation.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\BookSettingForm.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\BookSettingForm.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\FindBookForm.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\FindBookForm.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\WriteMode_Page.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\WriteMode_Page.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\HasteForm.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\HasteForm.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\ImageDialog.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\ImageDialog.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\InputBox.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\InputBox.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\IPForm.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\IPForm.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\JoinForm.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\JoinForm.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\LibraryForm.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\LibraryForm.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\LibrarySettingForm.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\LibrarySettingForm.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\LoginForm.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\LoginForm.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\MemoDialog.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\MemoDialog.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Controls\Page_Read.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Controls\Page_Read.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\NetworkLibForm.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\NetworkLibForm.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\NetworkServerForm.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\NetworkServerForm.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\NetworkUserAddForm.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\NetworkUserAddForm.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\PrintForm.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\PrintForm.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\PrintView.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\PrintView.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\ScreenForm.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\ScreenForm.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Forms\WriterForm.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Forms\WriterForm.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Properties\Resources.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Properties\Resources.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\Resource Files\MyResources.resx" Description="파일을 D:\Projects\source\Backup\CyberLibrary2\Resource Files\MyResources.resx(으)로 백업했습니다.">
+</Event><Event ErrorLevel="1" Project="CyberLibrary2" Source="CyberLibrary2\CyberLibrary2.csproj" Description="프로젝트가 .NET Framework 2.0 또는 3.0을 대상으로 합니다. 프로젝트에서 최신 .NET Framework를 필요로 하는 어셈블리를 사용하는 경우 프로젝트를 빌드할 수 없습니다. 프로젝트 메뉴에서 [속성]을 클릭하고 '.NET Framework' 드롭다운 상자에서 새 버전을 선택하면 .NET Framework 버전을 변경할 수 있습니다. Visual Basic의 경우 이 옵션이 '고급 컴파일러 옵션...' 단추를 클릭하면 나타나는 [컴파일] 탭에 있습니다.">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\CyberLibrary2.csproj" Description="프로젝트를 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="CyberLibrary2" Source="CyberLibrary2\CyberLibrary2.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CyberLibrary.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="CyberLibrary.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CyberLibrary2" Source="CyberLibrary2\CyberLibrary2.csproj" Description="검사 완료: 프로젝트 파일을 업그레이드할 필요가 없습니다.">
+</Event></UpgradeLog>
